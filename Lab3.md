@@ -1,6 +1,5 @@
 # Laboratorio 3. 08/09/2017
 
-![Alt text][id]
 [id]: https://imgur.com/Pxgv6PF  "Main Class"
 
 ## Pregunta 4

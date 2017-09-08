@@ -1,6 +1,15 @@
 # Laboratorio 3. 08/09/2017
 
-[id]: https://imgur.com/Pxgv6PF  "Main Class"
+## Pregunta 1,2
+
+![Alt text][id]
+[id]: https://imgur.com/Se4LI4a  "Main"
+
+![Alt text][id]
+[id]: https://imgur.com/RaYD14U  "Clase Rectangulo"
+
+![Alt text][id]
+[id]: https://imgur.com/Pxgv6PF  "Clase Triangulo"
 
 ## Pregunta 4
 **¿Que es una interfaz?**
